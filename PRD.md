@@ -34,7 +34,7 @@ The system is intended to reduce uncertainty and make meal collection more organ
 
 Initial research was gathered through a short questionnaire completed by **7 students**. The questions covered queue frequency, meal periods, unavailable preferred meals, what students do when a meal is unavailable, meal preferences and interest in an advance information or reservation system.
 
-This is a small convenience sample. The findings provide early indications of student experiences; they should not be treated as representative of the entire university.
+This is a small convenience sample. The findings provide early indications of student experiences; it should not be treated as representative of the entire university.
 
 ### 3.1 Survey findings
 
@@ -49,7 +49,7 @@ This is a small convenience sample. The findings provide early indications of st
 | Think advance meal information would be useful | 7 yes |
 | Would use a preference/reservation system | 6 yes; 1 no |
 
-Other comments included long queues, waiting outside, concerns about food quality, repeated meals, a desire for more variety, and the need for more organised spaces. Some respondents did not provide additional comments.
+Other comments included long queues, waiting outside, concerns about food quality, repeated meals, a desire for more variety, and the need for more organised spaces.
 
 ### 3.2 What the findings suggest
 
