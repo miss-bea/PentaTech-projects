@@ -16,8 +16,6 @@ This creates several difficulties:
 - Some students may leave without collecting food.
 - Students who already know what they want before arriving cannot easily check availability in advance.
 
-The initial student survey also raised related concerns about food variety, food quality and the organisation of cafeteria spaces. These concerns should be recorded, but the proposed software cannot directly improve food preparation, ingredients or the physical layout.
-
 ### Why this problem needs attention
 
 Students need a way to make informed meal choices before joining a queue. Cafeteria management also needs a clear way to publish availability and manage any advance reservations without preventing other students from buying meals through the existing walk-in process.
