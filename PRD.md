@@ -1,8 +1,8 @@
-# PRD: Campus Cafeteria Queue and Meal Management System
+# PRD: PentaTech
 
 ## 1. Project overview
 
-The proposed Campus Cafeteria Queue and Meal Management System is a responsive web application intended to help students check meal availability before visiting the cafeteria and optionally reserve a meal. It will also help cafeteria management publish menus, record meal quantities and manage reservations.
+The proposed PentaTech is a responsive web application intended to help students check meal availability before visiting the cafeteria and optionally reserve a meal. It will also help cafeteria management publish menus, record meal quantities and manage reservations.
 
 The system is intended to reduce avoidable waiting and help students make informed meal choices. It will work alongside the cafeteria's existing process rather than replace the current meal entitlement or entrance arrangements.
 
